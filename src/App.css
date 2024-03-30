@@ -1,0 +1,24 @@
+h3{
+     
+    margin-bottom: 12px;
+}
+ 
+
+ /* Add this CSS to your stylesheet */
+ 
+/* Add this CSS to your stylesheet */
+button.slick-arrow::after,
+button.slick-next::after {
+  color: orange; /* Set the cursor color */
+  display: inline;
+ 
+  
+}
+button.slick-arrow::before,
+button.slick-prev::before {
+  color: orange; /* Set the cursor color */
+  
+ 
+  
+}
+ 
